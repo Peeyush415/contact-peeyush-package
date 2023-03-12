@@ -1,0 +1,19 @@
+{
+    "name": "peeyush/contact-us",
+    "description": "contact and send message to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peeyush Sengar",
+            "email": "peeyushsengar415@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Peeyush\\ContactUs\\": "src/"
+        }
+    }
+}
